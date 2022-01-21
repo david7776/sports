@@ -103,7 +103,7 @@ http://172.19.251.2:25461/live/008966/008966/580.m3u8
 http://user.tvcluboficial.com/stream/nov/nov/57.m3u8
 
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN PREMIER HQ" tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png" group-title="TV | Internacional",INT| GOLDEN PREMIER HQ
-http://compitv.info:8080/supertv427/BTCk6kvas9/253042
+http://compitv.info:8080/supertv427/BTCk6kvas9/47696
 
 #EXTINF:-1 tvg-id="warner.ec" tvg-name="INT| WARNER BROTHER HQ" tvg-logo="http://l3d.us:8080/images/1660885848050e9ca9746ddd54e2de25.png" group-title="TV | Internacional",INT| WARNER BROTHER HQ
 http://globalentertainmentec.xyz:8000/1102/1102/48370
@@ -214,7 +214,7 @@ http://globalentertainmentec.xyz:8000/1102/1102/8663
 http://compitv.info:8080/supertv427/BTCk6kvas9/48195
 
 #EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| NICKELODEON HQ" tvg-logo="https://nick-intl.mtvnimages.com/uri/mgid:file:gsp:entertainment-assets:/webplex/site/nick/intl/nickelodeon-600x600.png" group-title="TV | Internacional",INT| NICKELODEON HQ
-http://compitv.info:8080/supertv427/BTCk6kvas9/91009
+http://compitv.info:8080/supertv427/BTCk6kvas9/48205
 
 #EXTINF:-1 tvg-id="cartoon.ec" tvg-name="INT| CARTOONITO HQ" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/elespectador/Q5GZ2WZL6VHNVCFVJK72P7UIHA.jpg" group-title="TV | Internacional",INT| CARTOONITO HQ
 http://compitv.info:8080/supertv427/BTCk6kvas9/48194
@@ -292,7 +292,7 @@ http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/169986
 http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/169935
 
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| MOVISTAR LIGA DE CAMPEONES HD" tvg-logo="https://deportenvivo-tv.com/img/posts/1620781617_50902d5bb35655e9129c.jpg" group-title="TV | Deportes",DEP| MOVISTAR LIGA DE CAMPEONES HD
-http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/169936
+http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/169939
 
 #EXTINF:-1 tvg-id="" tvg-name="El juego del calamar S01 E01" tvg-logo="https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2021/10/juego-calamar-2489663.jpg?itok=5i0oPG7R" group-title="SERIES | Drama",El juego del calamar S01 E01
 http://172.19.251.2:25461/series/008966/008966/1848.mkv
