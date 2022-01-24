@@ -303,7 +303,7 @@ http://globalentertainmentec.xyz:8000/1102/1102/8486
 #EXTINF:-1 tvg-id="euro.ec" tvg-name="DEP| EUROSPORT 1 HD" tvg-logo="https://1.bp.blogspot.com/-CyhISbzO-eE/YJH3AA08YdI/AAAAAAAAFc0/nvHC3EBTB8kS92FCSXaYHSz_RlBBj47jgCLcBGAsYHQ/s1920/Eurosport%2B1%2BHD%2Buk%252C%2BEurosport%2B2%2BHD%2BFrance%252C%2BEurosport%2B1%2Bfrance%252C%2BEurosport%2B2%2BUK%252C%2BEurosport%2B1%2BDeutschland%252C%2BEurosport%2B2%2BHD%2BExtra%2BDeutschland%252C%2BEurosport%2B1%2BPolska%252C%2BEurosport%2B2%2BPolska%252C%2BEurosport%2B1%2BItalia%252C%2BEurosport%2B2%2BItalia%252C.jpg" group-title="TV | Deportes",DEP| EUROSPORT 1 HD
 http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/169942
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| CINECANAL DEMO FHD" tvg-logo="" group-title="TV | Deportes",DEP| CINECANAL DEMO FHD
-http://45.160.73.129:8888/play/a04j/index.m3y8
+http://45.160.73.129:8888/play/a04j/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="El juego del calamar S01 E01" tvg-logo="https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2021/10/juego-calamar-2489663.jpg?itok=5i0oPG7R" group-title="SERIES | Drama",El juego del calamar S01 E01
 http://172.19.251.2:25461/series/008966/008966/1848.mkv
