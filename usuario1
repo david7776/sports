@@ -1,4 +1,9 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="ABR18" tvg-logo="https://ibb.co/kxGFq4r" group-title="Conectado con Jesus",ABR18
+https://ia601409.us.archive.org/6/items/18-de-abril/18%20de%20abril.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ABR11" tvg-logo="https://ibb.co/kxGFq4r" group-title="Conectado con Jesus",ABR11
+https://ia601402.us.archive.org/27/items/conectadocon-jesus-11de-abril/conectadoconJesus11de%20abril.mp4
 #EXTINF:-1 tvg-id="" tvg-name="ABR04" tvg-logo="https://ibb.co/kxGFq4r" group-title="Conectado con Jesus",ABR04
 https://ia601404.us.archive.org/18/items/04-de-abril_202204/04%20de%20abril.mp4
 #EXTINF:-1 tvg-id="" tvg-name="MAR28" tvg-logo="https://ibb.co/kxGFq4r" group-title="Conectado con Jesus",MAR28
